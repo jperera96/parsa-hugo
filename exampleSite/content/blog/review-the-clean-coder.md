@@ -2,7 +2,6 @@
 categories = ["Review"]
 date = 2021-03-13T16:36:00Z
 description = "A book review of The Clean Coder by Robert C. Martin"
-draft = true
 image = "/images/thecleancoder.png"
 tags = ["Soft skills"]
 title = "Review: The Clean Coder"
