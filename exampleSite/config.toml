@@ -1,5 +1,5 @@
 # default config
-baseurl = "https://examplesite.org"
+baseurl = "https://jordiperera.com"
 languageCode = "en-us"
 title = "Parsa Hugo | Personal Blog Template"
 theme = "parsa-hugo"
@@ -53,13 +53,13 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Homepage"
-  name = "Homepage 1"
-  url = "homepage/home-1"
+  name = "Homepage 2"
+  url = "homepage/home-2"
 
   [[menu.main]]
   parent = "Homepage"
-  name = "Homepage 2"
-  url = "homepage/home-2"
+  name = "Homepage 1"
+  url = "homepage/home-1"
 
 [[menu.main]]
 name = "About"
@@ -84,12 +84,12 @@ preloader = true
 # search
 search = true
 # about author
-author = "John Doe"
+author = "Jordi Perera"
 author_image = "images/banner-img.png"
 bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
 # Contact info
-mobile = "+90 000 333 22"
-email = "exmaple@ymail.com"
+mobile = "+34 617 167 453"
+email = "jpereramiro@gmail.com"
 address = "6 rip carl Avenue CA 90733"
 # Contact Form Action
 contact_form_action = "#"
