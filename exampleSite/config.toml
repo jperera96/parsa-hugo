@@ -7,17 +7,20 @@ theme = "parsa-hugo"
 title = "Jordi Perera | Personal Blog"
 [[menu.main]]
 name = "Homepage"
+parent = ""
+url = "homepage/home-2"
+[[menu.main]]
+name = "Homepage 2"
 parent = "Homepage"
 url = "homepage/home-2"
-weight = 1
-[[menu.main]]
-name = "Contact"
-url = "contact"
-weight = 3
 [[menu.main]]
 name = "About"
 url = "about"
 weight = 2
+[[menu.main]]
+name = "Contact"
+url = "contact"
+weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
