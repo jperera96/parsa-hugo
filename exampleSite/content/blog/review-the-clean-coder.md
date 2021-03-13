@@ -2,17 +2,17 @@
 categories = ["Review"]
 date = 2021-03-13T16:36:00Z
 description = "A book review of The Clean Coder by Robert C. Martin"
-image = "/images/thecleancoder.png"
+image = "/images/51uhs7qo-l.jpg"
 tags = ["Soft skills"]
 title = "Review: The Clean Coder"
-type = ""
+type = "post"
 
 +++
 If you are here just wondering whether you should buy the book or not; just buy it. The book is really good and it will provide you with lots of wisdom. No matter whether you are a trainee, a junior, or the most experienced developer in the office. The book may have its flaws but, overall, it's undeniable that reading it is well-invested time and money.
 
 The book features no code at all. Its subtitle “A Code of Conduct for Professional Programmers” doesn’t lie. The book is basically a compendium of common sense attitudes, advice, and personal experiences from its author, Robert C. Martin (AKA Uncle Bob).
 
-Therefore, any junior developer will greatly benefit from reading experiences and mistakes made by an older fellow developer. Thus, a more experienced developer may feel like the content of this book is too basic for their needs. And… I must say that probably yes. Nevertheless, the book is pretty short and easy to read. I read it in just two afternoons. So, solidifying presumably already acquired professional conduct will do no harm to anyone and good to you, your boss, and your workmates.
+Therefore, any junior developer will greatly benefit from reading experiences and mistakes made by an older fellow developer. Thus, a more experienced developer may feel like the content of this book is too basic for their needs. And… I must say that probably yes. Nevertheless, the book is pretty short and easy to read. I read it in just two afternoons. So, solidifying presumably an already acquired professional conduct will do no harm to anyone and good to you, your boss, and your workmates.
 
 Most of the chapters start by stating the author’s “wrong” attitude towards a problem and how he got into trouble because of that. Then he explains how by using the “correct” conduct he fixed the issue or didn’t get into that situation in the first place. Most of the examples are really old, before 1990 and it can feel like you are reading your grandpa's war stories. But, most of them can still be applied nowadays because remember, it’s just attitudes! It’s not talking about the latest JavaScript framework. I must say, that the age of the book makes it feel like our department, call it IT, R&D or whatever, is seen as very unprofessional. I’m sure this was the case 30 years ago but nowadays, where every company is a tech company, I don’t think that’s the case anymore.
 
@@ -24,18 +24,32 @@ Criticism that I’ve seen over the Internet and I don’t agree with is that th
 
 Below, you can find its table of contents. The chapter's names are pretty self-explanatory.
 
-* 1. Professionalism
-* 2. Saying No
-* 3. Saying Yes
-* 4. Coding
-* 5. Test-Driven Development
-* 6. Practicing
-* 7. Acceptance Testing
-* 8. Testing Strategies
-* 9. Time Management
-* 10. Estimation
-* 11. Pressure
-* 12. Collaboration
-* 13. Teams and Projects
-* 14. Mentoring, Apprenticeship, and Craftsmanship
-* A. Tooling
+1. Professionalism
+
+1. Saying No
+
+1. Saying Yes
+
+1. Coding
+
+1. Test-Driven Development
+
+1. Practicing
+
+1. Acceptance Testing
+
+1. Testing Strategies
+
+1. Time Management
+
+1. Estimation
+
+1. Pressure
+
+1. Collaboration
+
+1. Teams and Projects
+
+1. Mentoring, Apprenticeship, and Craftsmanship
+
+A. Tooling
