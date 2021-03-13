@@ -8,7 +8,7 @@ title = "Jordi Perera | Personal Blog"
 [[menu.main]]
 name = "Homepage"
 parent = ""
-url = "homepage/home-2"
+url = "#"
 [[menu.main]]
 name = "About"
 url = "about"
