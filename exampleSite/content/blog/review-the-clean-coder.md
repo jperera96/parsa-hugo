@@ -2,7 +2,7 @@
 categories = ["Review"]
 date = 2021-03-13T16:36:00Z
 description = "A book review of The Clean Coder by Robert C. Martin"
-image = "/images/the-clean-coder-cover.jpg"
+image = "/images/51uhs7qo-l.jpg"
 tags = ["Soft skills"]
 title = "Review: The Clean Coder"
 type = "post"
@@ -24,32 +24,32 @@ Criticism that I’ve seen over the Internet and I don’t agree with is that th
 
 Below, you can find its table of contents. The chapter's names are pretty self-explanatory.
 
-* 
-  1. Professionalism
-* 
-  1. Saying No
-* 
-  1. Saying Yes
-* 
-  1. Coding
-* 
-  1. Test-Driven Development
-* 
-  1. Practicing
-* 
-  1. Acceptance Testing
-* 
-  1. Testing Strategies
-* 
-  1. Time Management
-* 
-  1. Estimation
-* 
-  1. Pressure
-* 
-  1. Collaboration
-* 
-  1. Teams and Projects
-* 
-  1. Mentoring, Apprenticeship, and Craftsmanship
-* A. Tooling
+1. Professionalism
+
+1. Saying No
+
+1. Saying Yes
+
+1. Coding
+
+1. Test-Driven Development
+
+1. Practicing
+
+1. Acceptance Testing
+
+1. Testing Strategies
+
+1. Time Management
+
+1. Estimation
+
+1. Pressure
+
+1. Collaboration
+
+1. Teams and Projects
+
+1. Mentoring, Apprenticeship, and Craftsmanship
+
+A. Tooling
