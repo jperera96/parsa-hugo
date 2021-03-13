@@ -6,7 +6,7 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "Jordi Perera | Personal Blog"
 [[menu.main]]
-name = "Homepage 2"
+name = "Homepage"
 parent = "Homepage"
 url = "homepage/home-2"
 weight = 1
