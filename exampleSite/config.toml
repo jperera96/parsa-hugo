@@ -7,7 +7,7 @@ theme = "parsa-hugo"
 title = "Jordi Perera | Personal Blog"
 [[menu.main]]
 name = "Homepage"
-url = "homepage/home-2
+url = "homepage"
 weight = 1
 [[menu.main]]
 name = "About"
