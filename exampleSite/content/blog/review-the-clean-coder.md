@@ -10,8 +10,6 @@ type = "post"
 +++
 If you are here just wondering whether you should buy the book or not; just buy it. The book is really good and it will provide you with lots of wisdom. No matter whether you are a trainee, a junior, or the most experienced developer in the office. The book may have its flaws but, overall, it's undeniable that reading it is well-invested time and money.
 
-    try1
-
 The book features no code at all. Its subtitle “A Code of Conduct for Professional Programmers” doesn’t lie. The book is basically a compendium of common sense attitudes, advice, and personal experiences from its author, Robert C. Martin (AKA Uncle Bob).
 
 Therefore, any junior developer will greatly benefit from reading experiences and mistakes made by an older fellow developer. Thus, a more experienced developer may feel like the content of this book is too basic for their needs. And… I must say that probably yes. Nevertheless, the book is pretty short and easy to read. I read it in just two afternoons. So, solidifying presumably an already acquired professional conduct will do no harm to anyone and good to you, your boss, and your workmates.
