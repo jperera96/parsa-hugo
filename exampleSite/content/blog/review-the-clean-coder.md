@@ -5,7 +5,7 @@ description = "A book review of The Clean Coder by Robert C. Martin"
 image = "/images/thecleancoder.png"
 tags = ["Soft skills"]
 title = "Review: The Clean Coder"
-type = ""
+type = "post"
 
 +++
 If you are here just wondering whether you should buy the book or not; just buy it. The book is really good and it will provide you with lots of wisdom. No matter whether you are a trainee, a junior, or the most experienced developer in the office. The book may have its flaws but, overall, it's undeniable that reading it is well-invested time and money.
