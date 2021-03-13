@@ -14,10 +14,7 @@ weight = 1
 name = "Homepage 2"
 parent = "Homepage"
 url = "homepage/home-2"
-[[menu.main]]
-name = "Homepage 1"
-parent = "Homepage"
-url = "homepage/home-1"
+
 [[menu.main]]
 name = "About"
 url = "about"
