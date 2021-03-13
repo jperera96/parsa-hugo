@@ -2,7 +2,7 @@
 categories = ["Review"]
 date = 2021-03-13T16:36:00Z
 description = "A book review of The Clean Coder by Robert C. Martin"
-image = "/images/7138ap5-v3l.jpg"
+image = "/images/the-clean-coder-cover.jpg"
 tags = ["Soft skills"]
 title = "Review: The Clean Coder"
 type = "post"
