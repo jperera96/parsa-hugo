@@ -76,7 +76,7 @@ icon = "ti-twitter-alt"
 url = "#"
 [[params.social]]
 icon = "ti-linkedin"
-url = "#"
+url = "https://www.linkedin.com/in/jpereramiro/"
 [[params.social]]
 icon = "ti-github"
 url = "#"
